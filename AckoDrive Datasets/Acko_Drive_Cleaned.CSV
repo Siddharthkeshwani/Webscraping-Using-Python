@@ -1,0 +1,860 @@
+Brand,Model,Model_Type,Seats,Colors,Fuel_Type,Transmission,On_Road_Price,Location,Availability
+Tata,Nexon,SUV,5,2,Petrol,Manual,989000,Bangalore,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,772000,Bangalore,Available
+Maruti Suzuki,Swift,Hatchback,5,4,Petrol,Manual,810000,Bangalore,Available
+Hyundai,Grand i10 Nios,Hatchback,5,3,Petrol,Manual,742000,Bangalore,Available
+Hyundai,Aura,Sedan,5,1,CNG,Manual,930000,Bangalore,Available
+Hyundai,Venue,SUV,5,4,Petrol,Manual,977000,Bangalore,Available
+Toyota,Glanza,Hatchback,5,5,Petrol,Manual,844999,Bangalore,Available
+Hyundai,Creta,SUV,5,11,Petrol,Manual,1405000,Bangalore,Available
+Maruti Suzuki,Dzire,Sedan,5,7,Petrol,Manual,977999,Bangalore,Available
+Honda,City,Sedan,5,6,Petrol,Automatic,2039999,Bangalore,Available
+Hyundai,i20 N Line,Hatchback,5,7,Petrol,Automatic,1410000,Bangalore,Available
+Maruti Suzuki,Brezza,SUV,5,5,Petrol,Manual,1067000,Bangalore,Available
+Maruti Suzuki,S-Presso,SUV,5,7,Petrol,Manual,689000,Bangalore,Available
+Mahindra,Scorpio-N,SUV,7,3,Petrol,Manual,1777000,Bangalore,Available
+Mahindra,Bolero,SUV,7,1,Diesel,Manual,1219000,Bangalore,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1491000,Bangalore,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,Petrol,Manual,1101000,Bangalore,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Automatic,1627000,Bangalore,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1440000,Bangalore,Available
+Toyota,Urban Cruiser Hyryder,SUV,5,7,Petrol,Manual,1420000,Bangalore,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3719000,Bangalore,Available
+Skoda,Kushaq,SUV,5,6,Petrol,Manual,2052000,Bangalore,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1402000,Bangalore,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,1025000,Bangalore,Available
+Hyundai,Exter,SUV,5,1,Petrol,Manual,770000,Bangalore,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,931000,Bangalore,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,3236000,Bangalore,Available
+MG,Astor,SUV,5,2,Petrol,Manual,1446000,Bangalore,Available
+MG,Gloster,SUV,7,4,Diesel,Automatic,5129000,Bangalore,Available
+Toyota,Innova Hycross,SUV,7,7,Petrol,Automatic,2507000,Bangalore,Available
+Hyundai,Verna,Sedan,5,7,Petrol,Manual,1401000,Bangalore,Available
+Tata,Harrier,SUV,5,2,Diesel,Manual,2360000,Bangalore,Available
+Mahindra,Scorpio Classic,SUV,7,3,Diesel,Manual,1747000,Bangalore,Available
+Mahindra,XUV400,SUV,5,10,Electric,Automatic,1862000,Bangalore,Available
+MG,Hector,SUV,5,4,Petrol,Manual,2314000,Bangalore,Available
+MG,Hector Plus,SUV,7,4,Petrol,Manual,2412000,Bangalore,Available
+Toyota,Innova Crysta,SUV,8,5,Diesel,Manual,2505000,Bangalore,Available
+Toyota,Rumion,SUV,7,5,Petrol,Manual,1334000,Bangalore,Available
+Honda,Elevate,SUV,5,7,Petrol,Manual,1594000,Bangalore,Available
+Volkswagen,Taigun,SUV,5,6,Petrol,Manual,1807000,Bangalore,Available
+Volkswagen,Virtus,Sedan,5,7,Petrol,Manual,1705000,Bangalore,Available
+Kia,Carens,SUV,7,7,Diesel,Manual,1653000,Bangalore,Available
+Mahindra,XUV700,SUV,7,5,Petrol,Manual,1837000,Bangalore,Available
+Skoda,Slavia,Sedan,5,2,Petrol,Automatic,2070000,Bangalore,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,724000,Bangalore,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,706000,Bangalore,Available
+Mahindra,XUV 3XO,SUV,5,7,Petrol,Manual,1162000,Bangalore,Available
+Maruti Suzuki,Alto K10,Hatchback,5,6,Petrol,Manual,621000,Bangalore,Available
+Toyota,Urban Cruiser Taisor,SUV,5,4,Petrol,Manual,942000,Bangalore,Available
+MG,ZS EV,SUV,5,3,Electric,Automatic,1929000,Bangalore,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,836000,Bangalore,Available
+Hyundai,Creta N Line,SUV,5,6,Petrol,Automatic,2323000,Bangalore,Available
+Maruti Suzuki,Ignis,Hatchback,5,9,Petrol,Automatic,919999,Bangalore,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1607999,Bangalore,Available
+Tata,Punch EV,SUV,5,1,Electric,Automatic,1091000,Bangalore,Available
+MG,Comet EV,Hatchback,4,1,Electric,Automatic,822000,Bangalore,Available
+Maruti Suzuki,Eeco,Minivan/Van,5,5,Petrol,Manual,714000,Bangalore,Available
+Hyundai,i20,Hatchback,5,6,Petrol,Manual,959000,Bangalore,Available
+Toyota,Fortuner Legender,SUV,7,1,Diesel,Automatic,5591000,Bangalore,Available
+Mahindra,Thar Roxx,SUV,5,3,Diesel,Manual,2060000,Bangalore,Available
+Hyundai,Alcazar,SUV,7,9,Diesel,Manual,2250000,Bangalore,Available
+Tata,Curvv,SUV,5,2,Petrol,Manual,1232000,Bangalore,Available
+MG,Windsor EV,SUV,5,1,Electric,Automatic,1505000,Bangalore,Available
+Toyota,Fortuner,SUV,7,7,Petrol,Automatic,4534000,Bangalore,Available
+Mahindra,Thar,SUV,4,3,Diesel,Manual,1448000,Bangalore,Available
+Tata,Safari,SUV,7,2,Diesel,Manual,2273000,Bangalore,Available
+Mahindra,Bolero Neo,SUV,7,5,Diesel,Manual,1215000,Bangalore,Available
+Nissan,Magnite,SUV,5,2,Petrol,Manual,749000,Bangalore,Available
+Tata,Curvv EV,SUV,5,4,Electric,Automatic,2084000,Bangalore,Available
+Tata,Nexon EV,SUV,5,4,Electric,Automatic,1526000,Bangalore,Available
+Maruti Suzuki,Baleno,Hatchback,5,7,Petrol,Manual,832000,Bangalore,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,Petrol,Manual,1092000,Bangalore,Available
+Honda,Amaze,Sedan,5,6,Petrol,Manual,1003999,Bangalore,Available
+Skoda,Kylaq,SUV,5,7,Petrol,Manual,1195000,Bangalore,Available
+Tata,Harrier EV,SUV,5,2,Electric,Automatic,2315000,Bangalore,Available
+Tata,Tiago,Hatchback,5,2,Petrol,Manual,626000,Bangalore,Available
+Kia,Carens Clavis,SUV,7,7,Petrol,Manual,1560000,Bangalore,Available
+Tata,Altroz,Hatchback,5,5,Petrol,Manual,952000,Bangalore,Available
+Tata,Tiago EV,Hatchback,5,1,Electric,Automatic,866000,Bangalore,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1141000,Bangalore,Available
+Tata,Tiago NRG,Hatchback,5,4,Petrol,Manual,909000,Bangalore,Available
+Tata,Tigor,Sedan,5,2,Petrol,Automatic,914000,Bangalore,Available
+Mahindra,XEV 9e,SUV,5,7,Electric,Automatic,2408000,Bangalore,Available
+Hyundai,Creta Electric,SUV,5,5,Electric,Automatic,1939999,Bangalore,Available
+Mahindra,BE 6,SUV,5,8,Electric,Automatic,2094000,Bangalore,Available
+Tata,Nexon,SUV,5,4,Petrol,Manual,1065000,Chennai,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,749000,Chennai,Available
+Hyundai,Grand i10 Nios,Hatchback,5,3,Petrol,Manual,723000,Chennai,Available
+Hyundai,Aura,Sedan,5,1,Petrol,Manual,788000,Chennai,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,692000,Chennai,Available
+Hyundai,Venue,SUV,5,4,Petrol,Manual,952000,Chennai,Available
+MG,Astor,SUV,5,2,Petrol,Manual,1195000,Chennai,Available
+Renault,Kiger,SUV,5,3,Petrol,Manual,739000,Chennai,Available
+MG,Gloster,SUV,7,4,Diesel,Automatic,5141000,Chennai,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1402000,Chennai,Available
+Tata,Nexon EV,SUV,5,4,Electric,Automatic,1501000,Chennai,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Automatic,1607999,Chennai,Available
+Maruti Suzuki,Alto K10,Hatchback,5,6,Petrol,Manual,591000,Chennai,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,669000,Chennai,Available
+Maruti Suzuki,Brezza,SUV,5,5,Petrol,Manual,1010000,Chennai,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,CNG,Manual,1361000,Chennai,Available
+Renault,Kwid,Hatchback,5,5,Petrol,Manual,668000,Chennai,Available
+Hyundai,i20 N Line,Hatchback,5,7,Petrol,Manual,1187000,Chennai,Available
+Hyundai,Creta,SUV,5,14,Petrol,Manual,1390000,Chennai,Available
+Renault,Triber,MPV/MUV,7,2,Petrol,Manual,739000,Chennai,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1439000,Chennai,Available
+Mahindra,XUV700,SUV,7,5,Diesel,Manual,2247000,Chennai,Available
+Maruti Suzuki,Eeco,Minivan/Van,5,5,Petrol,Manual,723000,Chennai,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3704999,Chennai,Available
+Mahindra,Scorpio-N,SUV,7,7,Diesel,Manual,2729000,Chennai,Available
+Mahindra,Bolero,SUV,7,2,Diesel,Manual,1186000,Chennai,Available
+Hyundai,Exter,SUV,5,1,Petrol,Manual,750000,Chennai,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,894000,Chennai,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,3174000,Chennai,Available
+Hyundai,Verna,Sedan,5,7,Petrol,Manual,1545000,Chennai,Available
+Tata,Harrier,SUV,5,2,Diesel,Automatic,2419000,Chennai,Available
+Mahindra,Scorpio Classic,SUV,7,5,Diesel,Manual,2245000,Chennai,Available
+Mahindra,XUV400,SUV,5,10,Electric,Automatic,1814999,Chennai,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1388000,Chennai,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,1000000,Chennai,Available
+Kia,Carens,SUV,7,7,Petrol,Manual,1412000,Chennai,Available
+MG,Comet EV,Hatchback,4,3,Electric,Automatic,961999,Chennai,Available
+MG,Hector,SUV,5,3,Petrol,Automatic,2237000,Chennai,Available
+MG,Hector Plus,SUV,6,9,Petrol,Manual,2730000,Chennai,Available
+Citroen,C3,SUV,5,4,Petrol,Manual,775000,Chennai,Available
+Citroen,E-C3,SUV,5,4,Electric,Automatic,1391000,Chennai,Available
+Citroen,C5 Aircross,SUV,5,7,Diesel,Automatic,4457000,Chennai,Available
+MG,ZS EV,SUV,5,3,Electric,Automatic,1939000,Chennai,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1566000,Chennai,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,Petrol,Manual,1076000,Chennai,Available
+Tata,Harrier EV,SUV,5,2,Electric,Automatic,2288000,Chennai,Available
+Maruti Suzuki,S-Presso,SUV,5,7,Petrol,Manual,656000,Chennai,Available
+Tata,Safari,SUV,7,2,Diesel,Manual,2419000,Chennai,Available
+Hyundai,i20,Hatchback,5,6,Petrol,Manual,935000,Chennai,Available
+Kia,Carens Clavis,SUV,6,7,Petrol,Manual,1423000,Chennai,Available
+Tata,Altroz,Hatchback,5,5,Petrol,Manual,828999,Chennai,Available
+Skoda,Kushaq,SUV,5,6,Petrol,Automatic,1676000,Chennai,Available
+Hyundai,Creta N Line,SUV,5,7,Petrol,Manual,2445000,Chennai,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,797000,Chennai,Available
+Tata,Punch EV,SUV,5,4,Electric,Automatic,1274000,Chennai,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1116000,Chennai,Available
+Mahindra,Thar,SUV,4,5,Diesel,Manual,1662000,Chennai,Available
+Tata,Tiago,Hatchback,5,2,Petrol,Manual,606000,Chennai,Available
+Tata,Tiago EV,Hatchback,5,1,Electric,Automatic,849000,Chennai,Available
+Tata,Tiago NRG,Hatchback,5,4,Petrol,Automatic,944999,Chennai,Available
+Maruti Suzuki,Ignis,Hatchback,5,6,Petrol,Manual,696000,Chennai,Available
+Mahindra,XUV 3XO,SUV,5,7,Diesel,Manual,1207000,Chennai,Available
+Maruti Suzuki,Swift,Hatchback,5,4,Petrol,Manual,772000,Chennai,Available
+Tata,Tigor,Sedan,5,2,Petrol,Manual,892000,Chennai,Available
+Mahindra,BE 6,SUV,5,8,Electric,Automatic,2135000,Chennai,Available
+Mahindra,Bolero Neo,SUV,7,5,Diesel,Manual,1205000,Chennai,Available
+Tata,Curvv EV,SUV,5,4,Electric,Automatic,2053000,Chennai,Available
+Tata,Curvv,SUV,5,4,Petrol,Automatic,1597000,Chennai,Available
+Hyundai,Creta Electric,SUV,5,5,Electric,Automatic,1939000,Chennai,Available
+Mahindra,XEV 9e,SUV,5,7,Electric,Automatic,2451000,Chennai,Available
+Citroen,Basalt,SUV,5,2,Petrol,Manual,1019999,Chennai,Available
+Hyundai,Alcazar,SUV,7,10,Petrol,Automatic,2698000,Chennai,Available
+MG,Windsor EV,SUV,5,1,Electric,Automatic,1518000,Chennai,Available
+Mahindra,Thar Roxx,SUV,5,3,Petrol,Manual,1657000,Chennai,Available
+Nissan,Magnite,SUV,5,2,Petrol,Manual,745000,Chennai,Available
+Maruti Suzuki,Dzire,Sedan,5,6,Petrol,Manual,813000,Chennai,Available
+Citroen,Aircross,SUV,7,8,Petrol,Automatic,1813000,Chennai,Available
+Hyundai,Creta,SUV,5,11,Petrol,Manual,1301000,Delhi,Available
+Hyundai,Venue,SUV,5,4,Petrol,Manual,906000,Delhi,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,950000,Delhi,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1060000,Delhi,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,758000,Delhi,Available
+Maruti Suzuki,Brezza,SUV,5,5,Petrol,Manual,976000,Delhi,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1311000,Delhi,Available
+Mahindra,XUV700,SUV,7,12,Diesel,Manual,2744000,Delhi,Available
+Mahindra,Scorpio-N,SUV,7,3,Petrol,Manual,1689000,Delhi,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,671000,Delhi,Available
+Tata,Nexon,SUV,5,4,Petrol,Manual,1002000,Delhi,Available
+Tata,Curvv EV,SUV,5,4,Electric,Automatic,2028000,Delhi,Available
+Maruti Suzuki,Swift,Hatchback,5,4,Petrol,Manual,731000,Delhi,Available
+Hyundai,Grand i10 Nios,Hatchback,5,3,Petrol,Manual,671000,Delhi,Available
+Hyundai,Aura,Sedan,5,1,CNG,Manual,863000,Delhi,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,634000,Delhi,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,596000,Delhi,Available
+Honda,City,Sedan,5,6,Petrol,Automatic,1659000,Delhi,Available
+Renault,Kiger,SUV,5,5,Petrol,Manual,708000,Delhi,Available
+Renault,Triber,MPV/MUV,7,2,Petrol,Manual,708000,Delhi,Available
+Renault,Kwid,Hatchback,5,5,Petrol,Manual,576000,Delhi,Available
+Tata,Nexon EV,SUV,5,4,Electric,Automatic,1587000,Delhi,Available
+Hyundai,i20 N Line,Hatchback,5,7,Petrol,Manual,1325000,Delhi,Available
+Toyota,Glanza,Hatchback,5,5,Petrol,Manual,1110000,Delhi,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,Petrol,Manual,1166000,Delhi,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1359000,Delhi,Available
+Maruti Suzuki,Alto K10,Hatchback,5,6,Petrol,Manual,550000,Delhi,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Manual,1415000,Delhi,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3414000,Delhi,Available
+Maruti Suzuki,Eeco,Minivan/Van,7,5,Petrol,Manual,643000,Delhi,Available
+Kia,Carens,SUV,7,7,Petrol,Manual,1322000,Delhi,Available
+Toyota,Urban Cruiser Hyryder,SUV,5,11,Petrol,Automatic,2184000,Delhi,Available
+Honda,Elevate,SUV,5,7,Petrol,Manual,1403000,Delhi,Available
+Toyota,Rumion,SUV,7,5,Petrol,Automatic,1413000,Delhi,Available
+Toyota,Innova Crysta,SUV,8,5,Diesel,Manual,2379000,Delhi,Available
+MG,ZS EV,SUV,5,3,Electric,Automatic,1909000,Delhi,Available
+MG,Hector Plus,SUV,7,4,Petrol,Manual,2222000,Delhi,Available
+MG,Hector,SUV,5,3,Petrol,Manual,1980999,Delhi,Available
+MG,Gloster,SUV,7,4,Diesel,Automatic,4809000,Delhi,Available
+MG,Comet EV,Hatchback,4,3,Electric,Automatic,902000,Delhi,Available
+MG,Astor,SUV,5,2,Petrol,Manual,1335000,Delhi,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1300000,Delhi,Available
+Skoda,Slavia,Sedan,5,4,Petrol,Manual,1582000,Delhi,Available
+Skoda,Kushaq,SUV,5,10,Petrol,Manual,1744000,Delhi,Available
+Hyundai,Exter,SUV,5,1,Petrol,Manual,673000,Delhi,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,849000,Delhi,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,2925000,Delhi,Available
+Hyundai,Verna,Sedan,5,7,Petrol,Automatic,1909000,Delhi,Available
+Tata,Harrier,SUV,5,2,Diesel,Manual,2214000,Delhi,Available
+Mahindra,Scorpio Classic,SUV,7,3,Diesel,Manual,1693000,Delhi,Available
+Hyundai,i20,Hatchback,5,5,Petrol,Manual,858000,Delhi,Available
+Tata,Punch EV,SUV,5,4,Electric,Automatic,1365000,Delhi,Available
+Mahindra,XUV400,SUV,5,10,Electric,Automatic,1795000,Delhi,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1461000,Delhi,Available
+Mahindra,XUV 3XO,SUV,5,9,Diesel,Manual,1354000,Delhi,Available
+Toyota,Urban Cruiser Taisor,SUV,5,4,Petrol,Manual,874000,Delhi,Available
+Maruti Suzuki,Ignis,Hatchback,5,6,Petrol,Manual,642000,Delhi,Available
+Hyundai,Creta N Line,SUV,5,6,Petrol,Automatic,2142000,Delhi,Available
+Maruti Suzuki,S-Presso,SUV,5,6,Petrol,Manual,552000,Delhi,Available
+Volkswagen,Virtus,Sedan,5,7,Petrol,Manual,1340000,Delhi,Available
+Volkswagen,Taigun,SUV,5,6,Petrol,Manual,1367000,Delhi,Available
+Mahindra,Bolero,SUV,7,2,Diesel,Manual,1342000,Delhi,Available
+Mahindra,Thar,SUV,4,5,Diesel,Manual,1632000,Delhi,Available
+Tata,Safari,SUV,7,2,Diesel,Manual,1837000,Delhi,Available
+Toyota,Fortuner Legender,SUV,7,1,Diesel,Automatic,5319000,Delhi,Available
+Mahindra,Bolero Neo,SUV,7,5,Diesel,Manual,1191000,Delhi,Available
+Tata,Curvv,SUV,5,4,Petrol,Manual,1312000,Delhi,Available
+Hyundai,IONIQ 5,SUV,5,3,Electric,Automatic,4772000,Delhi,Available
+Toyota,Fortuner,SUV,7,8,Diesel,Manual,4361000,Delhi,Available
+Tata,Tigor,Sedan,5,2,Petrol,Manual,669000,Delhi,Available
+Tata,Tiago EV,Hatchback,5,6,Electric,Automatic,1093000,Delhi,Available
+Tata,Tiago NRG,Hatchback,5,4,Petrol,Manual,830000,Delhi,Available
+Honda,Amaze,Sedan,5,6,Petrol,Manual,919000,Delhi,Available
+Mahindra,XEV 9e,SUV,5,7,Electric,Automatic,3342000,Delhi,Available
+Nissan,Magnite,SUV,5,2,Petrol,Manual,708000,Delhi,Available
+Maruti Suzuki,Dzire,Sedan,5,6,Petrol,Manual,774000,Delhi,Available
+Tata,Tiago,Hatchback,5,2,Petrol,Manual,562000,Delhi,Available
+Mahindra,BE 6,SUV,5,8,Electric,Automatic,2961000,Delhi,Available
+Mahindra,Thar Roxx,SUV,5,3,Petrol,Automatic,1889000,Delhi,Available
+Skoda,Kylaq,SUV,5,4,Petrol,Manual,950000,Delhi,Available
+MG,Windsor EV,SUV,5,4,Electric,Automatic,1719000,Delhi,Available
+Hyundai,Creta Electric,SUV,5,5,Electric,Automatic,2023999,Delhi,Available
+Hyundai,Alcazar,SUV,7,8,Petrol,Manual,1748000,Delhi,Available
+Volkswagen,Tiguan R-Line,SUV,5,6,Petrol,Automatic,5681000,Delhi,Available
+Tata,Altroz,Hatchback,5,5,Petrol,Manual,785000,Delhi,Available
+Skoda,Kodiaq,SUV,7,9,Petrol,Automatic,5457000,Delhi,Available
+Maruti Suzuki,Baleno,Hatchback,5,7,Petrol,Manual,757000,Delhi,Available
+Citroen,Aircross,SUV,5,2,Petrol,Manual,974000,Delhi,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,Petrol,Manual,1015000,Delhi,Available
+Citroen,Basalt,SUV,5,2,Petrol,Manual,943000,Delhi,Available
+Tata,Harrier EV,SUV,5,2,Electric,Automatic,2316000,Delhi,Available
+Kia,Carens Clavis,SUV,6,7,Petrol,Manual,1332000,Delhi,Available
+Citroen,C3,SUV,5,4,Petrol,Manual,715000,Delhi,Available
+Hyundai,Creta,SUV,5,11,Petrol,Manual,1284000,Faridabad,Available
+Hyundai,Venue,SUV,5,4,Petrol,Manual,917000,Faridabad,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,955000,Faridabad,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1066000,Faridabad,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,763000,Faridabad,Available
+Maruti Suzuki,Brezza,SUV,5,5,Petrol,Manual,975000,Faridabad,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1282000,Faridabad,Available
+Mahindra,XUV700,SUV,7,5,Diesel,Manual,1811000,Faridabad,Available
+Mahindra,Scorpio-N,SUV,7,7,Petrol,Manual,2496000,Faridabad,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,673000,Faridabad,Available
+Tata,Nexon,SUV,5,2,CNG,Manual,1013000,Faridabad,Available
+Hyundai,Grand i10 Nios,Hatchback,5,3,Petrol,Manual,680000,Faridabad,Available
+Hyundai,Aura,Sedan,5,1,CNG,Manual,863000,Faridabad,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,635000,Faridabad,Available
+Maruti Suzuki,Swift,Hatchback,5,4,Petrol,Manual,739000,Faridabad,Available
+Honda,City,Sedan,5,6,Petrol,Automatic,1630000,Faridabad,Available
+Renault,Triber,MPV/MUV,7,2,Petrol,Manual,712000,Faridabad,Available
+Renault,Kwid,Hatchback,5,5,Petrol,Manual,579000,Faridabad,Available
+Renault,Kiger,SUV,5,5,Petrol,Manual,713000,Faridabad,Available
+Tata,Nexon EV,SUV,5,4,Electric,Automatic,1484000,Faridabad,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,Petrol,Manual,1133000,Faridabad,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,592000,Faridabad,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1338000,Faridabad,Available
+Toyota,Glanza,Hatchback,5,5,Petrol,Manual,1114000,Faridabad,Available
+Maruti Suzuki,Alto K10,Hatchback,5,6,Petrol,Manual,545000,Faridabad,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Manual,1401000,Faridabad,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3397000,Faridabad,Available
+Maruti Suzuki,Eeco,Minivan/Van,5,5,Petrol,Manual,660000,Faridabad,Available
+Toyota,Innova Crysta,SUV,8,5,Diesel,Manual,2286000,Faridabad,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1273000,Faridabad,Available
+Toyota,Rumion,SUV,7,5,Petrol,Automatic,1383000,Faridabad,Available
+Kia,Carens,SUV,7,7,Petrol,Manual,1295000,Faridabad,Available
+Honda,Elevate,SUV,5,7,Petrol,Manual,1426000,Faridabad,Available
+Toyota,Urban Cruiser Hyryder,SUV,5,11,Petrol,Automatic,2166000,Faridabad,Available
+Skoda,Slavia,Sedan,5,4,Petrol,Manual,1552000,Faridabad,Available
+Skoda,Kushaq,SUV,5,10,Petrol,Manual,1711000,Faridabad,Available
+Hyundai,Exter,SUV,5,1,Petrol,Manual,681000,Faridabad,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,852999,Faridabad,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,2932000,Faridabad,Available
+Hyundai,Verna,Sedan,5,7,Petrol,Automatic,1864999,Faridabad,Available
+Tata,Harrier,SUV,5,2,Diesel,Manual,2157000,Faridabad,Available
+Toyota,Fortuner,SUV,7,8,Diesel,Manual,4261000,Faridabad,Available
+Hyundai,Alcazar,SUV,7,8,Petrol,Manual,1723000,Faridabad,Available
+Mahindra,Thar,SUV,4,5,Diesel,Manual,1536000,Faridabad,Available
+Hyundai,IONIQ 5,SUV,5,3,Electric,Automatic,4911000,Faridabad,Available
+Toyota,Fortuner Legender,SUV,7,1,Diesel,Automatic,5199000,Faridabad,Available
+Mahindra,Bolero Neo,SUV,7,5,Diesel,Manual,1168000,Faridabad,Available
+Maruti Suzuki,S-Presso,SUV,4,6,Petrol,Manual,550000,Faridabad,Available
+Tata,Tigor,Sedan,5,2,Petrol,Manual,674000,Faridabad,Available
+Tata,Tiago,Hatchback,5,2,Petrol,Manual,565000,Faridabad,Available
+Maruti Suzuki,Dzire,Sedan,5,6,Petrol,Manual,774000,Faridabad,Available
+Honda,Amaze,Sedan,5,6,Petrol,Manual,927999,Faridabad,Available
+Maruti Suzuki,Ignis,Hatchback,5,6,Petrol,Manual,651000,Faridabad,Available
+MG,Astor,SUV,5,2,Petrol,Manual,1309000,Faridabad,Available
+MG,Gloster,SUV,7,4,Diesel,Automatic,4704000,Faridabad,Available
+Hyundai,i20 N Line,Hatchback,5,7,Petrol,Manual,1147000,Faridabad,Available
+Hyundai,Creta N Line,SUV,5,6,Petrol,Automatic,2112000,Faridabad,Available
+Hyundai,Creta Electric,SUV,5,5,Electric,Automatic,2069000,Faridabad,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1437000,Faridabad,Available
+Mahindra,XUV400,SUV,5,10,Electric,Automatic,1829000,Faridabad,Available
+Nissan,Magnite,SUV,5,2,Petrol,Manual,713000,Faridabad,Available
+Tata,Safari,SUV,7,2,Diesel,Manual,1780000,Faridabad,Available
+Tata,Curvv,SUV,5,4,Petrol,Manual,1290000,Faridabad,Available
+MG,Comet EV,Hatchback,4,3,Electric,Automatic,967000,Faridabad,Available
+Mahindra,XUV 3XO,SUV,5,7,Petrol,Automatic,1366000,Faridabad,Available
+MG,ZS EV,SUV,5,3,Electric,Automatic,2048999,Faridabad,Available
+Tata,Tiago EV,Hatchback,5,1,Electric,Automatic,861000,Faridabad,Available
+Tata,Tiago NRG,Hatchback,5,4,Petrol,Manual,838000,Faridabad,Available
+Mahindra,BE 6,SUV,5,8,Electric,Automatic,3002000,Faridabad,Available
+Mahindra,XEV 9e,SUV,5,7,Electric,Automatic,4426000,Faridabad,Available
+Mahindra,Thar Roxx,SUV,5,3,Petrol,Manual,1542000,Faridabad,Available
+MG,Hector Plus,SUV,7,4,Petrol,Manual,2181000,Faridabad,Available
+Tata,Punch EV,SUV,5,1,Electric,Automatic,1060000,Faridabad,Available
+Toyota,Urban Cruiser Taisor,SUV,5,4,Petrol,Manual,886000,Faridabad,Available
+MG,Windsor EV,SUV,5,4,Electric,Automatic,1845000,Faridabad,Available
+Mahindra,Scorpio Classic,SUV,7,3,Diesel,Manual,1623999,Faridabad,Available
+MG,Hector,SUV,5,3,Petrol,Manual,1944000,Faridabad,Available
+Tata,Curvv EV,SUV,5,4,Electric,Automatic,2028000,Faridabad,Available
+Hyundai,i20,Hatchback,5,5,Petrol,Manual,869000,Faridabad,Available
+Volkswagen,Virtus,Sedan,5,7,Petrol,Manual,1317000,Faridabad,Available
+Volkswagen,Taigun,SUV,5,6,Petrol,Manual,1343000,Faridabad,Available
+Skoda,Kylaq,SUV,5,4,Petrol,Manual,953999,Faridabad,Available
+Mahindra,Bolero,SUV,7,2,Diesel,Manual,1154000,Faridabad,Available
+Volkswagen,Tiguan R-Line,SUV,5,6,Petrol,Automatic,5677000,Faridabad,Available
+Skoda,Kodiaq,SUV,7,9,Petrol,Automatic,5453000,Faridabad,Available
+Tata,Altroz,Hatchback,5,5,Petrol,Manual,789000,Faridabad,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,Petrol,Manual,1014000,Faridabad,Available
+Citroen,Aircross,SUV,5,2,Petrol,Manual,983000,Faridabad,Available
+Maruti Suzuki,Baleno,Hatchback,5,7,Petrol,Manual,778000,Faridabad,Available
+Citroen,Basalt,SUV,5,2,Petrol,Manual,952999,Faridabad,Available
+Kia,Carens Clavis,SUV,6,7,Petrol,Manual,1305000,Faridabad,Available
+Citroen,C3,SUV,5,4,Petrol,Manual,721000,Faridabad,Available
+Tata,Harrier EV,SUV,5,2,Electric,Automatic,2369000,Faridabad,Available
+Hyundai,Creta,SUV,5,11,Petrol,Manual,1315000,Ghaziabad,Available
+Hyundai,Venue,SUV,5,4,Petrol,Manual,923000,Ghaziabad,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,985000,Ghaziabad,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1074000,Ghaziabad,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,777000,Ghaziabad,Available
+Maruti Suzuki,Brezza,SUV,5,5,Petrol,Manual,989000,Ghaziabad,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1325000,Ghaziabad,Available
+Mahindra,XUV700,SUV,7,5,Petrol,Manual,1794000,Ghaziabad,Available
+Mahindra,Scorpio-N,SUV,7,3,Petrol,Manual,1701000,Ghaziabad,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,694000,Ghaziabad,Available
+Tata,Nexon,SUV,5,4,Petrol,Manual,1019999,Ghaziabad,Available
+Hyundai,Grand i10 Nios,Hatchback,5,3,Petrol,Manual,701000,Ghaziabad,Available
+Hyundai,Aura,Sedan,5,1,CNG,Manual,877999,Ghaziabad,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,657000,Ghaziabad,Available
+Maruti Suzuki,Swift,Hatchback,5,4,Petrol,Manual,749000,Ghaziabad,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,622000,Ghaziabad,Available
+Renault,Triber,MPV/MUV,7,2,Petrol,Manual,712000,Ghaziabad,Available
+Renault,Kwid,Hatchback,5,5,Petrol,Manual,594000,Ghaziabad,Available
+Renault,Kiger,SUV,5,5,Petrol,Manual,710000,Ghaziabad,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1371000,Ghaziabad,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,Petrol,Manual,1174000,Ghaziabad,Available
+Toyota,Glanza,Hatchback,5,5,Petrol,Manual,1127000,Ghaziabad,Available
+Hyundai,i20 N Line,Hatchback,5,7,Petrol,Manual,1338000,Ghaziabad,Available
+Honda,City,Sedan,5,6,Petrol,Automatic,1671000,Ghaziabad,Available
+Maruti Suzuki,Alto K10,Hatchback,5,6,Petrol,Manual,573000,Ghaziabad,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Manual,1435000,Ghaziabad,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3424000,Ghaziabad,Available
+Maruti Suzuki,Eeco,Minivan/Van,5,5,Petrol,Manual,690000,Ghaziabad,Available
+Skoda,Kushaq,SUV,5,10,Petrol,Manual,1755999,Ghaziabad,Available
+Toyota,Rumion,SUV,7,5,Petrol,Automatic,1421000,Ghaziabad,Available
+Honda,Elevate,SUV,5,7,Petrol,Manual,1463000,Ghaziabad,Available
+Hyundai,Exter,SUV,5,1,Petrol,Manual,703000,Ghaziabad,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,863000,Ghaziabad,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,2952000,Ghaziabad,Available
+Hyundai,Verna,Sedan,5,7,Petrol,Automatic,1913000,Ghaziabad,Available
+Tata,Harrier,SUV,5,2,Diesel,Manual,2211000,Ghaziabad,Available
+Toyota,Urban Cruiser Hyryder,SUV,5,11,Petrol,Automatic,2007999,Ghaziabad,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1332000,Ghaziabad,Available
+Kia,Carens,SUV,7,7,Petrol,Manual,1350000,Ghaziabad,Available
+Toyota,Innova Crysta,SUV,8,5,Diesel,Manual,2344000,Ghaziabad,Available
+Skoda,Slavia,Sedan,5,4,Petrol,Manual,1593000,Ghaziabad,Available
+Mahindra,Thar Roxx,SUV,5,3,Petrol,Automatic,1905999,Ghaziabad,Available
+Hyundai,Alcazar,SUV,7,8,Petrol,Manual,1764999,Ghaziabad,Available
+MG,Gloster,SUV,6,1,Diesel,Automatic,5007000,Ghaziabad,Available
+Hyundai,IONIQ 5,SUV,5,3,Electric,Automatic,5277000,Ghaziabad,Available
+Honda,Amaze,Sedan,5,6,Petrol,Manual,936000,Ghaziabad,Available
+Tata,Tigor,Sedan,5,2,Petrol,Manual,695000,Ghaziabad,Available
+Mahindra,Thar,SUV,4,3,Diesel,Manual,1412000,Ghaziabad,Available
+Toyota,Fortuner,SUV,7,8,Diesel,Manual,4306000,Ghaziabad,Available
+Volkswagen,Virtus,Sedan,5,7,Petrol,Manual,1349000,Ghaziabad,Available
+MG,Astor,SUV,5,1,Petrol,Manual,1780000,Ghaziabad,Available
+Toyota,Fortuner Legender,SUV,7,1,Diesel,Automatic,5254000,Ghaziabad,Available
+Mahindra,Bolero Neo,SUV,7,5,Diesel,Manual,1174000,Ghaziabad,Available
+Maruti Suzuki,S-Presso,SUV,4,6,Petrol,Manual,571000,Ghaziabad,Available
+Tata,Tiago,Hatchback,5,2,Petrol,Manual,583000,Ghaziabad,Available
+Maruti Suzuki,Ignis,Hatchback,5,6,Petrol,Manual,676000,Ghaziabad,Available
+Hyundai,i20,Hatchback,5,5,Petrol,Manual,874000,Ghaziabad,Available
+Volkswagen,Taigun,SUV,5,6,Petrol,Manual,1376000,Ghaziabad,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1484000,Ghaziabad,Available
+Skoda,Kylaq,SUV,5,4,Petrol,Manual,961999,Ghaziabad,Available
+Mahindra,Bolero,SUV,7,1,Diesel,Manual,1175000,Ghaziabad,Available
+Maruti Suzuki,Dzire,Sedan,5,6,Petrol,Manual,787000,Ghaziabad,Available
+Hyundai,Creta N Line,SUV,5,6,Petrol,Automatic,2165000,Ghaziabad,Available
+Hyundai,Creta Electric,SUV,5,5,Electric,Automatic,2019000,Ghaziabad,Available
+Nissan,Magnite,SUV,5,2,Petrol,Manual,719000,Ghaziabad,Available
+Tata,Safari,SUV,7,2,Diesel,Manual,1825000,Ghaziabad,Available
+Tata,Curvv,SUV,5,4,Petrol,Manual,1321000,Ghaziabad,Available
+Mahindra,XUV 3XO,SUV,5,7,Petrol,Manual,1046000,Ghaziabad,Available
+Tata,Tiago NRG,Hatchback,5,4,Petrol,Manual,843000,Ghaziabad,Available
+MG,Hector Plus,SUV,7,4,Petrol,Automatic,2385000,Ghaziabad,Available
+Toyota,Urban Cruiser Taisor,SUV,5,4,Petrol,Manual,889000,Ghaziabad,Available
+Mahindra,Scorpio Classic,SUV,7,3,Diesel,Manual,1670000,Ghaziabad,Available
+Volkswagen,Tiguan R-Line,SUV,5,6,Petrol,Automatic,5677000,Ghaziabad,Available
+Maruti Suzuki,Baleno,Hatchback,5,7,Petrol,Manual,783000,Ghaziabad,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,Petrol,Manual,1031000,Ghaziabad,Available
+Tata,Altroz,Hatchback,5,5,Petrol,Manual,794000,Ghaziabad,Available
+Citroen,Aircross,SUV,5,2,Petrol,Manual,989000,Ghaziabad,Available
+Citroen,Basalt,SUV,5,2,Petrol,Manual,958000,Ghaziabad,Available
+Kia,Carens Clavis,SUV,6,7,Petrol,Manual,1339000,Ghaziabad,Available
+Citroen,C3,SUV,5,4,Petrol,Manual,725000,Ghaziabad,Available
+Skoda,Kodiaq,SUV,7,9,Petrol,Automatic,5500000,Ghaziabad,Available
+Hyundai,Creta,SUV,5,11,Petrol,Manual,1284000,Gurgaon,Available
+Hyundai,Venue,SUV,5,4,Petrol,Manual,917000,Gurgaon,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,955000,Gurgaon,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1066000,Gurgaon,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,763000,Gurgaon,Available
+Maruti Suzuki,Brezza,SUV,5,5,Petrol,Manual,975000,Gurgaon,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1282000,Gurgaon,Available
+Mahindra,XUV700,SUV,7,5,Diesel,Manual,1811000,Gurgaon,Available
+Mahindra,Scorpio-N,SUV,7,7,Petrol,Manual,2496000,Gurgaon,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,673000,Gurgaon,Available
+Tata,Nexon,SUV,5,2,CNG,Manual,1013000,Gurgaon,Available
+Tata,Curvv EV,SUV,5,4,Electric,Automatic,2028000,Gurgaon,Available
+Hyundai,Grand i10 Nios,Hatchback,5,3,Petrol,Manual,680000,Gurgaon,Available
+Hyundai,Aura,Sedan,5,1,CNG,Manual,863000,Gurgaon,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,635000,Gurgaon,Available
+Maruti Suzuki,Swift,Hatchback,5,4,Petrol,Manual,739000,Gurgaon,Available
+Renault,Kiger,SUV,5,5,Petrol,Manual,713000,Gurgaon,Available
+Renault,Triber,MPV/MUV,7,2,Petrol,Manual,712000,Gurgaon,Available
+Renault,Kwid,Hatchback,5,5,Petrol,Manual,579000,Gurgaon,Available
+Honda,City,Sedan,5,6,Petrol,Automatic,1630000,Gurgaon,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,Petrol,Manual,1133000,Gurgaon,Available
+Toyota,Glanza,Hatchback,5,5,Petrol,Manual,1114000,Gurgaon,Available
+Hyundai,i20 N Line,Hatchback,5,7,Petrol,Manual,1147000,Gurgaon,Available
+Tata,Nexon EV,SUV,5,4,Electric,Automatic,1484000,Gurgaon,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1338000,Gurgaon,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,592000,Gurgaon,Available
+Maruti Suzuki,Alto K10,Hatchback,5,6,Petrol,Manual,545000,Gurgaon,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Manual,1401000,Gurgaon,Available
+Maruti Suzuki,Eeco,Minivan/Van,5,5,Petrol,Manual,660000,Gurgaon,Available
+Toyota,Innova Crysta,SUV,8,5,Diesel,Manual,2286000,Gurgaon,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1273000,Gurgaon,Available
+Toyota,Rumion,SUV,7,5,Petrol,Automatic,1383000,Gurgaon,Available
+Kia,Carens,SUV,7,7,Petrol,Manual,1295000,Gurgaon,Available
+Honda,Elevate,SUV,5,7,Petrol,Manual,1426000,Gurgaon,Available
+Toyota,Urban Cruiser Hyryder,SUV,5,11,Petrol,Automatic,2166000,Gurgaon,Available
+Skoda,Slavia,Sedan,5,4,Petrol,Manual,1552000,Gurgaon,Available
+Skoda,Kushaq,SUV,5,10,Petrol,Manual,1711000,Gurgaon,Available
+Hyundai,Exter,SUV,5,1,Petrol,Manual,681000,Gurgaon,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,852999,Gurgaon,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,2932000,Gurgaon,Available
+Hyundai,Verna,Sedan,5,7,Petrol,Automatic,1864999,Gurgaon,Available
+Tata,Harrier,SUV,5,2,Diesel,Manual,2157000,Gurgaon,Available
+MG,Astor,SUV,5,2,Petrol,Manual,1309000,Gurgaon,Available
+Tata,Punch EV,SUV,5,1,Electric,Automatic,1060000,Gurgaon,Available
+Tata,Safari,SUV,7,2,Diesel,Manual,1780000,Gurgaon,Available
+Mahindra,Bolero Neo,SUV,7,5,Diesel,Manual,1168000,Gurgaon,Available
+Mahindra,XUV 3XO,SUV,5,7,Petrol,Automatic,1366000,Gurgaon,Available
+Toyota,Fortuner Legender,SUV,7,1,Diesel,Automatic,5199000,Gurgaon,Available
+Maruti Suzuki,Ignis,Hatchback,5,6,Petrol,Manual,651000,Gurgaon,Available
+MG,Hector,SUV,5,3,Petrol,Manual,1944000,Gurgaon,Available
+Mahindra,Scorpio Classic,SUV,7,3,Diesel,Manual,1623999,Gurgaon,Available
+Tata,Curvv,SUV,5,4,Petrol,Manual,1290000,Gurgaon,Available
+Hyundai,i20,Hatchback,5,5,Petrol,Manual,869000,Gurgaon,Available
+Hyundai,IONIQ 5,SUV,5,3,Electric,Automatic,4911000,Gurgaon,Available
+Toyota,Fortuner,SUV,7,8,Diesel,Manual,4261000,Gurgaon,Available
+Volkswagen,Taigun,SUV,5,6,Petrol,Manual,1343000,Gurgaon,Available
+MG,ZS EV,SUV,5,3,Electric,Automatic,2048999,Gurgaon,Available
+Mahindra,XUV400,SUV,5,10,Electric,Automatic,1829000,Gurgaon,Available
+Volkswagen,Virtus,Sedan,5,7,Petrol,Manual,1317000,Gurgaon,Available
+Maruti Suzuki,S-Presso,SUV,4,6,Petrol,Manual,550000,Gurgaon,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3397000,Gurgaon,Available
+MG,Hector Plus,SUV,7,4,Petrol,Manual,2181000,Gurgaon,Available
+MG,Comet EV,Hatchback,4,3,Electric,Automatic,967000,Gurgaon,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1437000,Gurgaon,Available
+MG,Gloster,SUV,7,4,Diesel,Automatic,4704000,Gurgaon,Available
+Mahindra,Bolero,SUV,7,2,Diesel,Manual,1154000,Gurgaon,Available
+Hyundai,Creta N Line,SUV,5,6,Petrol,Automatic,2112000,Gurgaon,Available
+Toyota,Urban Cruiser Taisor,SUV,5,4,Petrol,Manual,886000,Gurgaon,Available
+Mahindra,Thar,SUV,4,5,Diesel,Manual,1536000,Gurgaon,Available
+Mahindra,XEV 9e,SUV,5,7,Electric,Automatic,4426000,Gurgaon,Available
+Skoda,Kylaq,SUV,5,4,Petrol,Manual,953999,Gurgaon,Available
+Tata,Tigor,Sedan,5,2,Petrol,Manual,674000,Gurgaon,Available
+MG,Windsor EV,SUV,5,4,Electric,Automatic,1845000,Gurgaon,Available
+Tata,Tiago NRG,Hatchback,5,4,Petrol,Manual,838000,Gurgaon,Available
+Hyundai,Creta Electric,SUV,5,5,Electric,Automatic,2069000,Gurgaon,Available
+Mahindra,Thar Roxx,SUV,5,3,Petrol,Manual,1542000,Gurgaon,Available
+Maruti Suzuki,Dzire,Sedan,5,6,Petrol,Manual,774000,Gurgaon,Available
+Nissan,Magnite,SUV,5,2,Petrol,Manual,713000,Gurgaon,Available
+Tata,Tiago,Hatchback,5,2,Petrol,Manual,565000,Gurgaon,Available
+Hyundai,Alcazar,SUV,7,8,Petrol,Manual,1723000,Gurgaon,Available
+Tata,Tiago EV,Hatchback,5,1,Electric,Automatic,861000,Gurgaon,Available
+Mahindra,BE 6,SUV,5,8,Electric,Automatic,3002000,Gurgaon,Available
+Honda,Amaze,Sedan,5,6,Petrol,Manual,927999,Gurgaon,Available
+Volkswagen,Tiguan R-Line,SUV,5,6,Petrol,Automatic,5677000,Gurgaon,Available
+Skoda,Kodiaq,SUV,7,9,Petrol,Automatic,5453000,Gurgaon,Available
+Tata,Altroz,Hatchback,5,5,Petrol,Manual,789000,Gurgaon,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,Petrol,Manual,1014000,Gurgaon,Available
+Citroen,Aircross,SUV,5,2,Petrol,Manual,983000,Gurgaon,Available
+Maruti Suzuki,Baleno,Hatchback,5,7,Petrol,Manual,778000,Gurgaon,Available
+Citroen,Basalt,SUV,5,2,Petrol,Manual,952999,Gurgaon,Available
+Kia,Carens Clavis,SUV,6,7,Petrol,Manual,1305000,Gurgaon,Available
+Citroen,C3,SUV,5,4,Petrol,Manual,721000,Gurgaon,Available
+Tata,Harrier EV,SUV,5,2,Electric,Automatic,2369000,Gurgaon,Available
+Tata,Nexon,SUV,5,4,Petrol,Manual,1063000,Hyderabad,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,752000,Hyderabad,Available
+Hyundai,Grand i10 Nios,Hatchback,5,3,Petrol,Manual,730000,Hyderabad,Available
+Tata,Curvv EV,SUV,5,5,Electric,Automatic,2334000,Hyderabad,Available
+Hyundai,Aura,Sedan,5,6,Petrol,Manual,894999,Hyderabad,Available
+Hyundai,Venue,SUV,5,5,Petrol,Manual,1005000,Hyderabad,Available
+Hyundai,Creta,SUV,5,11,Petrol,Manual,1379000,Hyderabad,Available
+Hyundai,i20 N Line,Hatchback,5,8,Petrol,Manual,1397000,Hyderabad,Available
+Maruti Suzuki,Brezza,SUV,5,5,CNG,Manual,1158000,Hyderabad,Available
+Honda,City,Sedan,5,6,Petrol,Manual,1534000,Hyderabad,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1468000,Hyderabad,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,Petrol,Manual,1080000,Hyderabad,Available
+Tata,Nexon EV,SUV,5,4,Electric,Automatic,1498000,Hyderabad,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1416000,Hyderabad,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Automatic,1702000,Hyderabad,Available
+Mahindra,Bolero,SUV,7,2,Diesel,Manual,1189000,Hyderabad,Available
+Mahindra,Scorpio-N,SUV,7,5,Diesel,Manual,2159000,Hyderabad,Available
+Mahindra,XUV700,SUV,7,5,Diesel,Manual,1887000,Hyderabad,Available
+Toyota,Urban Cruiser Hyryder,SUV,5,7,Petrol,Manual,1405000,Hyderabad,Available
+Toyota,Glanza,Hatchback,5,5,Petrol,Manual,836000,Hyderabad,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3638000,Hyderabad,Available
+MG,ZS EV,SUV,5,3,Electric,Automatic,1929000,Hyderabad,Available
+MG,Hector Plus,SUV,7,8,Petrol,Manual,2691000,Hyderabad,Available
+MG,Hector,SUV,5,7,Petrol,Automatic,2877000,Hyderabad,Available
+MG,Gloster,SUV,7,4,Diesel,Automatic,5043000,Hyderabad,Available
+MG,Comet EV,Hatchback,4,1,Electric,Automatic,801000,Hyderabad,Available
+MG,Astor,SUV,5,2,Petrol,Manual,1420000,Hyderabad,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,1006000,Hyderabad,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1377000,Hyderabad,Available
+Kia,Carens,SUV,7,7,Petrol,Manual,1401000,Hyderabad,Available
+Toyota,Rumion,SUV,7,5,Petrol,Manual,1444000,Hyderabad,Available
+Skoda,Slavia,Sedan,5,4,Petrol,Manual,1673000,Hyderabad,Available
+Skoda,Kushaq,SUV,5,14,Petrol,Manual,1845000,Hyderabad,Available
+Honda,Elevate,SUV,5,7,Petrol,Manual,1526000,Hyderabad,Available
+Hyundai,Exter,SUV,5,1,Petrol,Manual,755000,Hyderabad,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,1061000,Hyderabad,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,3178000,Hyderabad,Available
+Toyota,Innova Crysta,SUV,8,5,Diesel,Manual,2468000,Hyderabad,Available
+Toyota,Innova Hycross,SUV,7,7,Petrol,Automatic,2471000,Hyderabad,Available
+Hyundai,Verna,Sedan,5,7,Petrol,Manual,1628000,Hyderabad,Available
+Tata,Harrier,SUV,5,1,Diesel,Automatic,2821000,Hyderabad,Available
+Mahindra,Scorpio Classic,SUV,7,3,Diesel,Manual,1732000,Hyderabad,Available
+Mahindra,XUV400,SUV,5,10,Electric,Automatic,2183000,Hyderabad,Available
+Maruti Suzuki,Eeco,Minivan/Van,7,5,Petrol,Manual,726000,Hyderabad,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,811999,Hyderabad,Available
+Maruti Suzuki,Ignis,Hatchback,5,6,Petrol,Manual,712000,Hyderabad,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,722000,Hyderabad,Available
+Tata,Punch EV,SUV,5,4,Electric,Automatic,1273000,Hyderabad,Available
+Hyundai,i20,Hatchback,5,6,Petrol,Manual,944000,Hyderabad,Available
+Mahindra,XUV 3XO,SUV,5,3,Petrol,Manual,972000,Hyderabad,Available
+Maruti Suzuki,Alto K10,Hatchback,5,7,Petrol,Manual,641000,Hyderabad,Available
+Toyota,Fortuner Legender,SUV,7,1,Diesel,Automatic,5488000,Hyderabad,Available
+Tata,Curvv,SUV,5,4,Petrol,Manual,1390000,Hyderabad,Available
+Maruti Suzuki,S-Presso,SUV,5,7,Petrol,Manual,677000,Hyderabad,Available
+Hyundai,IONIQ 5,SUV,5,1,Electric,Automatic,4907000,Hyderabad,Available
+Maruti Suzuki,Swift,Hatchback,5,6,Petrol,Manual,881000,Hyderabad,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1578000,Hyderabad,Available
+Toyota,Fortuner,SUV,7,7,Petrol,Automatic,4454000,Hyderabad,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,697000,Hyderabad,Available
+Hyundai,Creta N Line,SUV,5,6,Petrol,Automatic,2549000,Hyderabad,Available
+Toyota,Urban Cruiser Taisor,SUV,5,4,Petrol,Manual,928999,Hyderabad,Available
+Tata,Safari,SUV,6,4,Diesel,Manual,2710000,Hyderabad,Available
+Mahindra,Thar,SUV,4,5,Diesel,Manual,1655000,Hyderabad,Available
+Mahindra,Bolero Neo,SUV,7,5,Diesel,Manual,1208000,Hyderabad,Available
+Kia,Carens Clavis EV,MPV/MUV,7,6,Electric,Automatic,1887000,Hyderabad,Available
+Maruti Suzuki,Baleno,Hatchback,5,7,Petrol,Manual,816000,Hyderabad,Available
+Skoda,Kodiaq,SUV,7,9,Petrol,Automatic,5895000,Hyderabad,Available
+Skoda,Kylaq,SUV,5,4,Petrol,Manual,990000,Hyderabad,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,Petrol,Manual,1099000,Hyderabad,Available
+Kia,Carens Clavis,SUV,6,7,Petrol,Manual,1418000,Hyderabad,Available
+Honda,Amaze,Sedan,5,6,Petrol,Manual,978999,Hyderabad,Available
+Tata,Altroz,Hatchback,5,5,Petrol,Manual,827999,Hyderabad,Available
+Volkswagen,Taigun,SUV,5,6,Petrol,Manual,1467000,Hyderabad,Available
+Volkswagen,Virtus,Sedan,5,7,Petrol,Manual,1438000,Hyderabad,Available
+Tata,Tiago,Hatchback,5,2,Petrol,Manual,601000,Hyderabad,Available
+Tata,Harrier EV,SUV,5,4,Electric,Automatic,2939000,Hyderabad,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1123000,Hyderabad,Available
+Tata,Tiago EV,Hatchback,5,6,Electric,Automatic,1075000,Hyderabad,Available
+Tata,Tiago NRG,Hatchback,5,4,Petrol,Manual,878999,Hyderabad,Available
+Mahindra,BE 6,SUV,5,8,Electric,Automatic,2131000,Hyderabad,Available
+Tata,Tigor,Sedan,5,2,CNG,Manual,934000,Hyderabad,Available
+Mahindra,XEV 9e,SUV,5,7,Electric,Automatic,2460000,Hyderabad,Available
+Hyundai,Alcazar,SUV,6,11,Petrol,Automatic,2648000,Hyderabad,Available
+MG,Windsor EV,SUV,5,1,Electric,Automatic,1510000,Hyderabad,Available
+Mahindra,Thar Roxx,SUV,5,3,Petrol,Manual,1637000,Hyderabad,Available
+Nissan,Magnite,SUV,5,2,Petrol,Manual,749000,Hyderabad,Available
+Maruti Suzuki,Dzire,Sedan,5,7,Petrol,Manual,1074000,Hyderabad,Available
+Hyundai,Creta Electric,SUV,5,5,Electric,Automatic,1930000,Hyderabad,Available
+Tata,Nexon,SUV,5,2,CNG,Manual,1042000,Mumbai,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,814000,Mumbai,Available
+Hyundai,Creta,SUV,5,10,Petrol,Manual,1328000,Mumbai,Available
+Hyundai,Venue,SUV,5,5,Petrol,Manual,1095000,Mumbai,Available
+Mahindra,XUV700,SUV,7,5,Diesel,Manual,1841000,Mumbai,Available
+Hyundai,Aura,Sedan,5,1,CNG,Manual,874000,Mumbai,Available
+Mahindra,XUV 3XO,SUV,5,3,Petrol,Manual,948000,Mumbai,Available
+Tata,Tiago,Hatchback,5,3,Petrol,Manual,695000,Mumbai,Available
+Maruti Suzuki,Brezza,SUV,5,5,Petrol,Manual,1034000,Mumbai,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,807000,Mumbai,Available
+Maruti Suzuki,Swift,Hatchback,5,6,Petrol,Manual,857000,Mumbai,Available
+Hyundai,Grand i10 Nios,Hatchback,5,7,Petrol,Manual,814000,Mumbai,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,694000,Mumbai,Available
+Renault,Kiger,SUV,5,3,Petrol,Manual,733000,Mumbai,Available
+Toyota,Glanza,Hatchback,5,5,CNG,Manual,990000,Mumbai,Available
+Renault,Triber,MPV/MUV,7,9,Petrol,Automatic,1054000,Mumbai,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,682000,Mumbai,Available
+Maruti Suzuki,Dzire,Sedan,5,7,Petrol,Automatic,992000,Mumbai,Available
+Renault,Kwid,Hatchback,5,5,Petrol,Automatic,663000,Mumbai,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1426000,Mumbai,Available
+Honda,Amaze,Sedan,5,6,Petrol,Manual,1110000,Mumbai,Available
+Honda,City,Sedan,5,6,Petrol,Manual,1593000,Mumbai,Available
+Hyundai,i20 N Line,Hatchback,5,7,Petrol,Automatic,1474000,Mumbai,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,CNG,Manual,1312000,Mumbai,Available
+Mahindra,Scorpio-N,SUV,7,3,Petrol,Manual,1689999,Mumbai,Available
+Maruti Suzuki,Alto K10,Hatchback,5,7,Petrol,Automatic,689000,Mumbai,Available
+Mahindra,Bolero,SUV,7,2,Diesel,Manual,1180000,Mumbai,Available
+Tata,Nexon EV,SUV,5,4,Electric,Automatic,1486000,Mumbai,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Automatic,1643000,Mumbai,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1375000,Mumbai,Available
+Toyota,Urban Cruiser Hyryder,SUV,5,7,Petrol,Manual,1359000,Mumbai,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3511000,Mumbai,Available
+MG,Gloster,SUV,6,4,Diesel,Automatic,5026000,Mumbai,Available
+MG,Astor,SUV,5,2,Petrol,Manual,1379000,Mumbai,Available
+Maruti Suzuki,Eeco,Minivan/Van,5,5,Petrol,Manual,707000,Mumbai,Available
+Volkswagen,Taigun,SUV,5,6,Petrol,Manual,1409000,Mumbai,Available
+Kia,Carens,SUV,7,7,Petrol,Manual,1387000,Mumbai,Available
+Toyota,Rumion,SUV,7,5,CNG,Manual,1321000,Mumbai,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1359000,Mumbai,Available
+Hyundai,Exter,SUV,5,1,Petrol,Manual,741000,Mumbai,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,900000,Mumbai,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,3022000,Mumbai,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,1022000,Mumbai,Available
+MG,Comet EV,Hatchback,4,5,Electric,Automatic,1044000,Mumbai,Available
+Toyota,Innova Hycross,SUV,7,7,Petrol,Automatic,2305000,Mumbai,Available
+Hyundai,Verna,Sedan,5,7,Petrol,Manual,1568000,Mumbai,Available
+Tata,Harrier,SUV,5,2,Diesel,Manual,1818000,Mumbai,Available
+Mahindra,Scorpio Classic,SUV,7,3,Diesel,Manual,1693000,Mumbai,Available
+Mahindra,XUV400,SUV,5,10,Electric,Automatic,1893000,Mumbai,Available
+MG,Hector,SUV,5,7,Petrol,Automatic,2688000,Mumbai,Available
+MG,Hector Plus,SUV,7,7,Petrol,Automatic,2784000,Mumbai,Available
+MG,ZS EV,SUV,5,3,Electric,Automatic,1951000,Mumbai,Available
+Volkswagen,Virtus,Sedan,5,6,Petrol,Automatic,1788000,Mumbai,Available
+Toyota,Innova Crysta,SUV,8,5,Diesel,Manual,2423000,Mumbai,Available
+Skoda,Slavia,Sedan,5,4,Petrol,Automatic,1753000,Mumbai,Available
+Skoda,Kushaq,SUV,5,6,Petrol,Automatic,1625000,Mumbai,Available
+Honda,Elevate,SUV,5,7,Petrol,Automatic,1836000,Mumbai,Available
+Maruti Suzuki,S-Presso,SUV,4,6,Petrol,Manual,592000,Mumbai,Available
+Hyundai,Creta N Line,SUV,5,7,Petrol,Manual,2334000,Mumbai,Available
+Maruti Suzuki,Ignis,Hatchback,5,10,Petrol,Manual,818000,Mumbai,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1500000,Mumbai,Available
+Tata,Punch EV,SUV,5,1,Electric,Automatic,1046000,Mumbai,Available
+Toyota,Urban Cruiser Taisor,SUV,5,5,Petrol,Manual,1017000,Mumbai,Available
+Hyundai,i20,Hatchback,5,5,Petrol,Manual,891000,Mumbai,Available
+Tata,Curvv EV,SUV,5,3,Electric,Automatic,1855999,Mumbai,Available
+Mahindra,Thar Roxx,SUV,5,7,Petrol,Manual,2013000,Mumbai,Available
+Mahindra,Bolero Neo,SUV,7,5,Diesel,Manual,1198000,Mumbai,Available
+Hyundai,IONIQ 5,SUV,5,3,Electric,Automatic,5234000,Mumbai,Available
+Tata,Curvv,SUV,5,4,Petrol,Manual,1356000,Mumbai,Available
+Tata,Safari,SUV,7,2,Diesel,Manual,2338000,Mumbai,Available
+Toyota,Fortuner Legender,SUV,7,1,Diesel,Automatic,5326000,Mumbai,Available
+Hyundai,Alcazar,SUV,7,9,Diesel,Automatic,2328000,Mumbai,Available
+Skoda,Kylaq,SUV,5,4,Petrol,Manual,975000,Mumbai,Available
+MG,Windsor EV,SUV,5,1,Electric,Automatic,1539000,Mumbai,Available
+Toyota,Fortuner,SUV,7,7,Petrol,Automatic,4242000,Mumbai,Available
+Mahindra,Thar,SUV,4,5,Diesel,Manual,1620000,Mumbai,Available
+Tata,Tiago EV,Hatchback,5,1,Electric,Automatic,846000,Mumbai,Available
+Tata,Tiago NRG,Hatchback,5,4,CNG,Manual,958000,Mumbai,Available
+Mahindra,XEV 9e,SUV,5,7,Electric,Automatic,3062000,Mumbai,Available
+Hyundai,Creta Electric,SUV,5,11,Electric,Automatic,2144000,Mumbai,Available
+Mahindra,BE 6,SUV,5,8,Electric,Automatic,2702000,Mumbai,Available
+Tata,Tigor,Sedan,5,2,Petrol,Manual,719000,Mumbai,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1101000,Mumbai,Available
+Maruti Suzuki,Baleno,Hatchback,5,7,Petrol,Manual,794000,Mumbai,Available
+Tata,Altroz,Hatchback,5,5,CNG,Manual,898000,Mumbai,Available
+Kia,Carens Clavis,SUV,6,7,Petrol,Manual,1479000,Mumbai,Available
+Renault,Triber,MPV/MUV,7,3,Petrol,Manual,744000,Mumbai,Available
+Skoda,Kodiaq,SUV,7,9,Petrol,Automatic,5626000,Mumbai,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,CNG,Manual,1284000,Mumbai,Available
+Tata,Harrier EV,SUV,5,2,Electric,Automatic,2272000,Mumbai,Available
+Hyundai,Creta,SUV,5,11,Petrol,Manual,1315000,Noida,Available
+Hyundai,Venue,SUV,5,4,Petrol,Manual,923000,Noida,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,985000,Noida,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1074000,Noida,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,777000,Noida,Available
+Maruti Suzuki,Brezza,SUV,5,5,Petrol,Manual,989000,Noida,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1325000,Noida,Available
+Mahindra,XUV700,SUV,7,5,Petrol,Manual,1794000,Noida,Available
+Mahindra,Scorpio-N,SUV,7,3,Petrol,Manual,1701000,Noida,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,694000,Noida,Available
+Tata,Nexon,SUV,5,4,Petrol,Manual,1019999,Noida,Available
+Hyundai,Grand i10 Nios,Hatchback,5,3,Petrol,Manual,701000,Noida,Available
+Hyundai,Aura,Sedan,5,1,CNG,Manual,877999,Noida,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,657000,Noida,Available
+Maruti Suzuki,Swift,Hatchback,5,4,Petrol,Manual,749000,Noida,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,622000,Noida,Available
+Renault,Triber,MPV/MUV,7,2,Petrol,Manual,712000,Noida,Available
+Renault,Kwid,Hatchback,5,5,Petrol,Manual,594000,Noida,Available
+Renault,Kiger,SUV,5,5,Petrol,Manual,710000,Noida,Available
+Toyota,Glanza,Hatchback,5,5,Petrol,Manual,1127000,Noida,Available
+Hyundai,i20 N Line,Hatchback,5,7,Petrol,Manual,1338000,Noida,Available
+Honda,City,Sedan,5,6,Petrol,Automatic,1671000,Noida,Available
+Maruti Suzuki,Alto K10,Hatchback,5,6,Petrol,Manual,573000,Noida,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Manual,1435000,Noida,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3424000,Noida,Available
+Maruti Suzuki,Eeco,Minivan/Van,5,5,Petrol,Manual,690000,Noida,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,2952000,Noida,Available
+Hyundai,Verna,Sedan,5,7,Petrol,Automatic,1913000,Noida,Available
+Tata,Harrier,SUV,5,2,Diesel,Manual,2211000,Noida,Available
+Hyundai,Exter,SUV,5,1,Petrol,Manual,703000,Noida,Available
+Toyota,Rumion,SUV,7,5,Petrol,Automatic,1421000,Noida,Available
+Toyota,Innova Crysta,SUV,8,5,Diesel,Manual,2344000,Noida,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1332000,Noida,Available
+Honda,Elevate,SUV,5,7,Petrol,Manual,1463000,Noida,Available
+Kia,Carens,SUV,7,7,Petrol,Manual,1350000,Noida,Available
+Toyota,Urban Cruiser Hyryder,SUV,5,11,Petrol,Automatic,2007999,Noida,Available
+Skoda,Slavia,Sedan,5,4,Petrol,Manual,1593000,Noida,Available
+Skoda,Kushaq,SUV,5,10,Petrol,Manual,1755999,Noida,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,863000,Noida,Available
+Mahindra,Scorpio Classic,SUV,7,3,Diesel,Manual,1670000,Noida,Available
+Mahindra,Thar Roxx,SUV,5,3,Petrol,Automatic,1905999,Noida,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1484000,Noida,Available
+MG,Gloster,SUV,6,1,Diesel,Automatic,5007000,Noida,Available
+Honda,Amaze,Sedan,5,6,Petrol,Manual,936000,Noida,Available
+Tata,Tigor,Sedan,5,2,Petrol,Manual,695000,Noida,Available
+Mahindra,Thar,SUV,4,3,Diesel,Manual,1412000,Noida,Available
+Toyota,Fortuner,SUV,7,8,Diesel,Manual,4306000,Noida,Available
+Volkswagen,Virtus,Sedan,5,7,Petrol,Manual,1349000,Noida,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1371000,Noida,Available
+Hyundai,i20,Hatchback,5,5,Petrol,Manual,874000,Noida,Available
+Volkswagen,Taigun,SUV,5,6,Petrol,Manual,1376000,Noida,Available
+Skoda,Kylaq,SUV,5,4,Petrol,Manual,961999,Noida,Available
+Mahindra,Bolero,SUV,7,1,Diesel,Manual,1175000,Noida,Available
+Hyundai,Alcazar,SUV,7,8,Petrol,Manual,1764999,Noida,Available
+Hyundai,IONIQ 5,SUV,5,3,Electric,Automatic,5231000,Noida,Available
+Toyota,Fortuner Legender,SUV,7,1,Diesel,Automatic,5254000,Noida,Available
+Mahindra,Bolero Neo,SUV,7,5,Diesel,Manual,1174000,Noida,Available
+Maruti Suzuki,S-Presso,SUV,4,6,Petrol,Manual,571000,Noida,Available
+Tata,Tiago,Hatchback,5,2,Petrol,Manual,583000,Noida,Available
+Maruti Suzuki,Dzire,Sedan,5,6,Petrol,Manual,787000,Noida,Available
+Maruti Suzuki,Ignis,Hatchback,5,6,Petrol,Manual,676000,Noida,Available
+MG,Astor,SUV,5,1,Petrol,Manual,1780000,Noida,Available
+Hyundai,Creta N Line,SUV,5,6,Petrol,Automatic,2165000,Noida,Available
+Hyundai,Creta Electric,SUV,5,5,Electric,Automatic,2019000,Noida,Available
+Nissan,Magnite,SUV,5,2,Petrol,Manual,719000,Noida,Available
+Tata,Safari,SUV,7,2,Diesel,Manual,1825000,Noida,Available
+Tata,Curvv,SUV,5,4,Petrol,Manual,1321000,Noida,Available
+Mahindra,XUV 3XO,SUV,5,7,Petrol,Manual,1046000,Noida,Available
+Tata,Tiago NRG,Hatchback,5,4,Petrol,Manual,843000,Noida,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,Petrol,Manual,1174000,Noida,Available
+MG,Hector Plus,SUV,7,4,Petrol,Automatic,2385000,Noida,Available
+Toyota,Urban Cruiser Taisor,SUV,5,4,Petrol,Manual,889000,Noida,Available
+Volkswagen,Tiguan R-Line,SUV,5,6,Petrol,Automatic,5677000,Noida,Available
+Maruti Suzuki,Baleno,Hatchback,5,7,Petrol,Manual,783000,Noida,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,Petrol,Manual,1031000,Noida,Available
+Tata,Altroz,Hatchback,5,5,Petrol,Manual,794000,Noida,Available
+Citroen,Aircross,SUV,5,2,Petrol,Manual,983000,Noida,Available
+Citroen,Basalt,SUV,5,2,Petrol,Manual,952000,Noida,Available
+Kia,Carens Clavis,SUV,6,7,Petrol,Manual,1339000,Noida,Available
+Citroen,C3,SUV,5,4,Petrol,Manual,719000,Noida,Available
+Skoda,Kodiaq,SUV,7,9,Petrol,Automatic,5500000,Noida,Available
+Tata,Nexon,SUV,5,2,Petrol,Manual,946000,Pune,Available
+Tata,Punch,SUV,5,2,Petrol,Manual,748000,Pune,Available
+Hyundai,Creta,SUV,5,10,Petrol,Manual,1337000,Pune,Available
+Hyundai,Venue,SUV,5,4,Petrol,Manual,948000,Pune,Available
+Hyundai,i20,Hatchback,5,8,Petrol,Manual,1002000,Pune,Available
+Hyundai,Aura,Sedan,5,1,CNG,Manual,880000,Pune,Available
+Honda,Amaze,Sedan,5,6,Petrol,Manual,961999,Pune,Available
+Tata,Tiago,Hatchback,5,3,Petrol,Manual,705000,Pune,Available
+Maruti Suzuki,Brezza,SUV,5,5,Petrol,Manual,1034000,Pune,Available
+Maruti Suzuki,Baleno,Hatchback,5,6,Petrol,Manual,811000,Pune,Available
+Tata,Curvv EV,SUV,5,4,Electric,Automatic,2141000,Pune,Available
+Hyundai,Grand i10 Nios,Hatchback,5,7,Petrol,Manual,819999,Pune,Available
+Honda,City,Sedan,5,6,Petrol,Manual,1566000,Pune,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,6,Petrol,Manual,1085000,Pune,Available
+Renault,Kiger,SUV,5,8,Petrol,Manual,1170000,Pune,Available
+Renault,Kwid,Hatchback,5,5,Petrol,Manual,604000,Pune,Available
+Hyundai,i20 N Line,Hatchback,5,7,Petrol,Manual,1178000,Pune,Available
+Renault,Triber,MPV/MUV,7,5,Petrol,Automatic,957000,Pune,Available
+Tata,Nexon EV,SUV,5,4,Electric,Automatic,1509000,Pune,Available
+Maruti Suzuki,Grand Vitara,SUV,5,1,Petrol,Manual,1375000,Pune,Available
+Hyundai,Venue N-Line,SUV,5,5,Petrol,Manual,1460000,Pune,Available
+Hyundai,Tucson,SUV,5,5,Petrol,Automatic,3526000,Pune,Available
+Maruti Suzuki,XL6,SUV,6,6,Petrol,Manual,1426000,Pune,Available
+Maruti Suzuki,Eeco,Minivan/Van,5,5,Petrol,Manual,720000,Pune,Available
+Maruti Suzuki,Wagon R,Hatchback,5,3,Petrol,Manual,694000,Pune,Available
+Skoda,Slavia,Sedan,5,4,Petrol,Manual,1263000,Pune,Available
+Skoda,Kushaq,SUV,5,6,Petrol,Automatic,1626000,Pune,Available
+Honda,Elevate,SUV,5,7,Petrol,Automatic,1822000,Pune,Available
+Hyundai,Exter,SUV,5,1,CNG,Manual,876000,Pune,Available
+Maruti Suzuki,Fronx,SUV,5,6,Petrol,Manual,900000,Pune,Available
+Maruti Suzuki,Invicto,SUV,7,4,Petrol,Automatic,3085000,Pune,Available
+Hyundai,Verna,Sedan,5,10,Petrol,Automatic,2099000,Pune,Available
+Tata,Harrier,SUV,5,2,Diesel,Manual,1932999,Pune,Available
+MG,Astor,SUV,5,2,Petrol,Manual,1355000,Pune,Available
+Tata,Punch EV,SUV,5,4,Electric,Automatic,1286000,Pune,Available
+Tata,Safari,SUV,6,2,Diesel,Manual,2185000,Pune,Available
+Maruti Suzuki,Alto K10,Hatchback,5,7,Petrol,Manual,644000,Pune,Available
+Tata,Curvv,SUV,5,4,Petrol,Automatic,1617000,Pune,Available
+Maruti Suzuki,Ignis,Hatchback,5,6,Petrol,Manual,767000,Pune,Available
+MG,Hector,SUV,5,4,Petrol,Automatic,2339000,Pune,Available
+Maruti Suzuki,Celerio,Hatchback,5,6,Petrol,Manual,724000,Pune,Available
+Hyundai,IONIQ 5,SUV,5,3,Electric,Automatic,5214000,Pune,Available
+MG,ZS EV,SUV,5,3,Electric,Automatic,1922000,Pune,Available
+Maruti Suzuki,S-Presso,SUV,4,7,Petrol,Automatic,724000,Pune,Available
+MG,Hector Plus,SUV,7,7,Petrol,Manual,2601000,Pune,Available
+Maruti Suzuki,Swift,Hatchback,5,4,Petrol,Manual,780000,Pune,Available
+MG,Comet EV,Hatchback,4,3,Electric,Automatic,950000,Pune,Available
+Maruti Suzuki,Jimny,SUV,4,5,Petrol,Manual,1531000,Pune,Available
+MG,Gloster,SUV,6,4,Diesel,Automatic,4965000,Pune,Available
+Hyundai,Creta N Line,SUV,5,6,Petrol,Manual,2023999,Pune,Available
+Mahindra,XUV400,SUV,5,10,Electric,Automatic,1752000,Pune,Available
+Mahindra,XUV 3XO,SUV,5,3,Petrol,Manual,931000,Pune,Available
+Hyundai,Alcazar,SUV,7,10,Petrol,Automatic,2612000,Pune,Available
+Tata,Tiago EV,Hatchback,5,6,Electric,Automatic,958000,Pune,Available
+Tata,Tiago NRG,Hatchback,5,4,Petrol,Manual,864000,Pune,Available
+Mahindra,Bolero,SUV,7,2,Diesel,Manual,1160000,Pune,Available
+Mahindra,XEV 9e,SUV,5,7,Electric,Automatic,2441000,Pune,Available
+Skoda,Kylaq,SUV,5,4,Petrol,Manual,976000,Pune,Available
+Mahindra,Thar Roxx,SUV,5,3,Petrol,Manual,1547000,Pune,Available
+Kia,Carens,SUV,7,7,Petrol,Manual,1346000,Pune,Available
+Mahindra,BE 6,SUV,5,8,Electric,Automatic,2123000,Pune,Available
+MG,Windsor EV,SUV,5,1,Electric,Automatic,1506000,Pune,Available
+Mahindra,Scorpio Classic,SUV,7,3,Diesel,Manual,1664000,Pune,Available
+Mahindra,XUV700,SUV,7,5,Diesel,Manual,1810000,Pune,Available
+Kia,Seltos,SUV,5,7,Petrol,Manual,1323000,Pune,Available
+Maruti Suzuki,Dzire,Sedan,5,7,Petrol,Automatic,992000,Pune,Available
+Mahindra,Thar,SUV,4,3,Diesel,Manual,1397000,Pune,Available
+Mahindra,Scorpio-N,SUV,7,5,Diesel,Manual,2077000,Pune,Available
+Kia,Sonet,SUV,5,7,Petrol,Manual,934000,Pune,Available
+Tata,Tigor,Sedan,5,2,Petrol,Manual,719000,Pune,Available
+Kia,Syros,SUV,5,8,Petrol,Manual,1098000,Pune,Available
+Hyundai,Creta Electric,SUV,5,8,Electric,Automatic,2241000,Pune,Available
+Maruti Suzuki,Baleno,Hatchback,5,7,Petrol,Manual,810000,Pune,Available
+Skoda,Kodiaq,SUV,7,9,Petrol,Automatic,5617000,Pune,Available
+Tata,Altroz,Hatchback,5,5,CNG,Manual,911999,Pune,Available
+Maruti Suzuki,Ertiga,MPV/MUV,7,7,Petrol,Manual,1084000,Pune,Available
+Kia,Carens Clavis,SUV,6,7,Petrol,Manual,1357000,Pune,Available
+Tata,Harrier EV,SUV,5,4,Electric,Automatic,2923000,Pune,Available
